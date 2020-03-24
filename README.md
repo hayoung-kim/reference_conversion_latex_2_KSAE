@@ -23,9 +23,7 @@ strings = """
 
 ### Output
 
-```
-I. Sutskever, O. Vinyals and Q. Le, "Sequence to sequence learning with neural networks", Advances in neural information processing systems, pp.3112-3112, 2014
-```
+`I. Sutskever, O. Vinyals and Q. Le, "Sequence to sequence learning with neural networks", Advances in neural information processing systems, pp.3112-3112, 2014`
 
 
 
